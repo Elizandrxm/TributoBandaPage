@@ -1,0 +1,92 @@
+html{
+font-family: Arial, Helvetica, sans-serif;
+background-color: #f0f0f0;
+} /*Container*/
+.container{
+   max-width: 1100px;
+   background-color: #f0f0f0;
+   position: relative;
+   margin: 30px auto;
+   padding: 20px 50px;
+   text-align: center;
+}
+.bold{
+    font-weight: bold;
+} /*Titulo*/
+.titulo-principal{
+font-weight: bold;
+font-size: 50px;
+}
+/*header- cabeçalho*/
+.header{
+    text-align: center;
+
+}
+.paragrafo{
+    font-style: italic;
+}
+.featured-image{
+text-align: center; /*centraliza a imagem*/
+margin-top:30px ;
+
+
+
+}
+.biografia-container{
+margin: 25px 0;
+padding: 25px;
+border-top: 1px dashed #ddd;
+border-bottom: 1px dashed #ddd; /* dashed faz linhas pontilhadas*/
+
+} /*Quotes*/
+.quotes-container{
+    font-weight: bold;
+    font-size: 30px;
+    background-color: #ddd;
+    border: 10px;
+    border-radius: 15px;
+    padding: 15px;
+font-weight: 600;
+color: rgb(173, 142, 97);
+}
+.quotes-container p {
+    font-style: italic;
+
+}
+
+   /*Curiosidade */
+.curiosidade-container{
+    padding: 25px;
+    margin: 25px;
+    font-weight: 500;
+    border-top: 1px dashed #ddd;
+    border-bottom: 1px dashed #ddd;
+
+}
+.curiosidade-container li{
+    height: 30px;
+    padding: 15px;
+   
+}
+/*Imagem bold*/
+.img-bold{
+    font-weight: bold ;
+    color: black;
+}
+.moreinfo-container{
+    margin-top: 30px;
+    padding: 15px;
+    font-weight: 500;
+    border-top: 1px dashed #ddd;
+}
+.moreinfo-container h2{
+    color: black;
+    font-size: medium;
+
+}
+.moreinfo-container a,
+.moreinfo-container p{
+     color: black;
+    font-size: medium;
+
+}
