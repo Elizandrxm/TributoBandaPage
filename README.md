@@ -11,4 +11,13 @@ O objetivo foi praticar fundamentos de desenvolvimento web criando uma página e
 
 ## 🚀 Tecnologias Utilizadas  
 - **HTML5** → Estrutura da página  
-- **CSS3** → Estilização e layout  
+- **CSS3** → Estilização e layout
+- 
+## 🎯 Aprendizados  
+Durante o desenvolvimento deste projeto, pratiquei:  
+- Estruturação semântica com HTML  
+- Estilização com CSS (cores, tipografia e layout)  
+- Organização de conteúdo informativo em seções  
+
+## 🔗 Link para o Projeto Online  
+Acesse a página de tributo ao vivo: [Clique aqui para ver](https://elizandrxm.github.io/TributoBandaPage/)  
