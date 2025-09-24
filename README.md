@@ -21,3 +21,4 @@ Durante o desenvolvimento deste projeto, pratiquei:
 
 ## 🔗 Link para o Projeto Online  
 Acesse a página de tributo ao vivo: [Clique aqui para ver](https://elizandrxm.github.io/TributoBandaPage/)  
+ <img width="1364" height="927" alt="Captura de tela 2025-09-24 182646" src="https://github.com/user-attachments/assets/c1b4cc6f-ceb4-4050-b6e5-3ebece383e6b" />
